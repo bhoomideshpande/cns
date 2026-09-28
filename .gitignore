@@ -8,6 +8,10 @@ __pycache__/
 venv/
 env/
 .venv/
+.venv312/
+
+# Local editor history
+.history/
 
 # Environment variables
 .env
